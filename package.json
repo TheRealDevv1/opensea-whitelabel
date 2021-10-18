@@ -15,7 +15,7 @@
     "iframe-resizer": "4.2.9",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "3.3.0",
     "typescript": "~3.7.2",
     "url-parse": "1.5.1"
   },
@@ -42,16 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheRealDevv1/opensea-whitelabel.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TheRealDevv1/opensea-whitelabel/issues"
-  },
-  "homepage": "https://github.com/TheRealDevv1/opensea-whitelabel#readme"
+  }
 }

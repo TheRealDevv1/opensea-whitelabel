@@ -1,9 +1,9 @@
 export const ASSET_URL =
-  "https://app.nftrade.com/assets/bsc/0xa4f492f6ee02f1c9f6751967c923fdb016dcd273/1";
+  "https://app.nftrade.com/users/bsc/0x83a0277d29092219188d7bc596418f11c6b62c9c";
 
 export enum EmbedTheme {
   Default = "true",
   Simple = "simple",
 }
 
-export const CHOSEN_THEME = EmbedTheme;
+export const CHOSEN_THEME = EmbedTheme.Default;
